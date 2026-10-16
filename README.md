@@ -4,7 +4,7 @@ A dnSpyEx Extension that opens .NET Single-File Bundles (v1/v2/v6) inside dnSpyE
 Grouped Bundle Explorer with search, sort and open, single/multi/Extract-All export  
 And one-click **RePack Bundle** beside **Save All**.
 
-![Version](https://img.shields.io/badge/version-3.0.0-blue)
+![Version](https://img.shields.io/badge/version-3.1.0-blue)
 ![Runtime](https://img.shields.io/badge/dnSpyEx-net48_%7C_net10-purple)
 ![Platform](https://img.shields.io/badge/platform-Windows-lightgrey)
 
